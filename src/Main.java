@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!"); // här skriver vi UT nÅgOt på skärmen
+        System.out.println("Hello world!"); // hÄr SKrIvEr Vi UT nÅgOt pÅ sKäRmEn
 
         //TJA TJA BLOGGEN! :D
 
@@ -11,6 +11,8 @@ public class Main {
 
 
         System.out.println(area);
+
+        System.out.println("VÄLKOMMEN :DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD");
 
 
 
