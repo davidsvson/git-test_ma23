@@ -8,7 +8,7 @@ public class Main {
         int b = 10;
         int c = a * b;
 
-        System.out.println((c * 11 + 6 + ": The number of the Oskar"));
+        System.out.println((c * 11 + 6 + ": The number of the Oskar!"));
 
 
 
