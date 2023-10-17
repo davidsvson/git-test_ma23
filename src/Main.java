@@ -5,6 +5,12 @@ public class Main {
         //TJA TJA BLOGGEN! :D
 
 
+        int width=2;
+        int height=3;
+        int area=2*3;
+
+
+
 
 
 
