@@ -7,9 +7,10 @@ public class Main {
 
         int width=2;
         int height=3;
-        int area=2*3;
+        int area=width*height;
 
 
+        System.out.println(area);
 
 
 
