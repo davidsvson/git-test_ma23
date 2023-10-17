@@ -3,6 +3,7 @@ public class Main {
         System.out.println("Hello world!"); // här skriver vi UT nÅgOt på skärmen
 
         //TJA TJA BLOGGEN! :D
+        // Kalle was here
 
 
 
