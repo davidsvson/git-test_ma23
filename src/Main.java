@@ -3,14 +3,13 @@ public class Main {
         System.out.println("Hello world!"); // här skriver vi UT nÅgOt på skärmen
 
         //TJA TJA BLOGGEN! :D
-
+        // Linus comment
+      
         int a = 6;
-        int b = 10;
+        int b = 9;
         int c = a * b;
 
-        System.out.println((c * 11 + 6 + ": The number of the Oskar!"));
-
-
+        System.out.println((c * 11 + 6 + ": The number of the Oskar!!"));
 
     }
 }
