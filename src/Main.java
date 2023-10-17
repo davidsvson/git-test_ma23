@@ -4,6 +4,8 @@ public class Main {
 
         //TJA TJA BLOGGEN! :D
 
+        // Linus comment
+
 
 
 
